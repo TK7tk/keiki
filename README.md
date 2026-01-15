@@ -13,5 +13,6 @@
 - `workflows/`: 実行手順（workflow）
 - `notebooklm-slide-creator/`: NotebookLM向けスライド生成スクリプト
 - `hr-file-summarizer/`: 人事系ファイルの要約スキル
+- `人事/`: 人事メモ（VOICE / OUTPUT など）
 - `BAA/`: BAA関連メモ
 - `開発/`: 開発メモ
