@@ -2,6 +2,11 @@
 
 このリポジトリは、個別作業用のメモ/ワークフロー/ツール類をまとめたものです。
 
+### GitHubへ一発でpushする（今後の運用）
+
+- 手順（説明）: `workflows/publish_to_github.md`
+- 実行スクリプト: `scripts/publish_to_github.ps1`
+
 ### 収録
 
 - `rules/`: エージェント/出力ルール
